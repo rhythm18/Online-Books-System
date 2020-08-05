@@ -1,0 +1,2 @@
+[23-Jul-2020 23:51:12 Asia/Calcutta] PHP Notice:  Undefined index: adminID in /home/oyirkzwle3k4/public_html/admin/dashboard.php on line 40
+[23-Jul-2020 23:51:12 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/oyirkzwle3k4/public_html/admin/dashboard.php on line 42

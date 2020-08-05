@@ -1,0 +1,81 @@
+[14-Jul-2020 14:04:47 Asia/Calcutta] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'betech_user'@'localhost' (using password: YES) in /home/oyirkzwle3k4/public_html/inc/connect.php on line 24
+[14-Jul-2020 14:19:24 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/oyirkzwle3k4/public_html/book_like.php on line 3
+[14-Jul-2020 17:27:37 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/oyirkzwle3k4/public_html/download.php on line 6
+[14-Jul-2020 19:15:37 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/oyirkzwle3k4/public_html/download.php on line 6
+[14-Jul-2020 19:15:46 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/oyirkzwle3k4/public_html/download.php on line 6
+[15-Jul-2020 04:33:21 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/oyirkzwle3k4/public_html/book_like.php on line 3
+[17-Jul-2020 02:25:24 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/oyirkzwle3k4/public_html/my-download.php on line 89
+[17-Jul-2020 02:25:24 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/oyirkzwle3k4/public_html/my-download.php on line 91
+[18-Jul-2020 14:46:53 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/oyirkzwle3k4/public_html/book_like.php on line 3
+[18-Jul-2020 15:20:55 Asia/Calcutta] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'betech_user'@'localhost' (using password: YES) in /home/oyirkzwle3k4/public_html/inc/connect.php on line 24
+[18-Jul-2020 15:35:26 Asia/Calcutta] PHP Warning:  file_get_contents(uploads/books/418242-611163-The Complete Idiot's Guide to Music Theory.pdf): failed to open stream: No such file or directory in /home/oyirkzwle3k4/public_html/download.php on line 21
+[18-Jul-2020 15:35:31 Asia/Calcutta] PHP Warning:  file_get_contents(uploads/books/418242-611163-The Complete Idiot's Guide to Music Theory.pdf): failed to open stream: No such file or directory in /home/oyirkzwle3k4/public_html/download.php on line 21
+[18-Jul-2020 15:36:51 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/oyirkzwle3k4/public_html/download.php on line 6
+[18-Jul-2020 15:37:25 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/oyirkzwle3k4/public_html/download.php on line 6
+[18-Jul-2020 15:37:25 Asia/Calcutta] PHP Warning:  file_get_contents(uploads/books/'579003-Python Tutorial.pdf'): failed to open stream: No such file or directory in /home/oyirkzwle3k4/public_html/download.php on line 21
+[18-Jul-2020 15:37:36 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/oyirkzwle3k4/public_html/download.php on line 6
+[18-Jul-2020 15:46:43 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/oyirkzwle3k4/public_html/book_like.php on line 3
+[18-Jul-2020 15:46:49 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/oyirkzwle3k4/public_html/book_like.php on line 3
+[18-Jul-2020 15:49:19 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/oyirkzwle3k4/public_html/download.php on line 6
+[18-Jul-2020 16:02:47 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/oyirkzwle3k4/public_html/download.php on line 6
+[18-Jul-2020 16:03:33 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/oyirkzwle3k4/public_html/download.php on line 6
+[18-Jul-2020 16:04:52 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/oyirkzwle3k4/public_html/download.php on line 6
+[18-Jul-2020 20:49:56 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/oyirkzwle3k4/public_html/download.php on line 6
+[18-Jul-2020 20:50:05 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/oyirkzwle3k4/public_html/download.php on line 6
+[18-Jul-2020 20:50:50 Asia/Calcutta] PHP Warning:  file_get_contents(uploads/books/418242-611163-The Complete Idiot's Guide to Music Theory.pdf): failed to open stream: No such file or directory in /home/oyirkzwle3k4/public_html/download.php on line 21
+[18-Jul-2020 20:50:53 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/oyirkzwle3k4/public_html/download.php on line 6
+[18-Jul-2020 20:50:53 Asia/Calcutta] PHP Warning:  file_get_contents(uploads/books/418242-611163-The Complete Idiot's Guide to Music Theory.pdf): failed to open stream: No such file or directory in /home/oyirkzwle3k4/public_html/download.php on line 21
+[18-Jul-2020 20:50:59 Asia/Calcutta] PHP Warning:  file_get_contents(uploads/books/418242-611163-The Complete Idiot's Guide to Music Theory.pdf): failed to open stream: No such file or directory in /home/oyirkzwle3k4/public_html/download.php on line 21
+[18-Jul-2020 20:51:01 Asia/Calcutta] PHP Warning:  file_get_contents(uploads/books/418242-611163-The Complete Idiot's Guide to Music Theory.pdf): failed to open stream: No such file or directory in /home/oyirkzwle3k4/public_html/download.php on line 21
+[20-Jul-2020 10:15:02 UTC] PHP Warning:  file_get_contents(uploads/books/418242-611163-The Complete Idiot's Guide to Music Theory.pdf): failed to open stream: No such file or directory in /home/oyirkzwle3k4/public_html/preview_pdf.php on line 8
+[20-Jul-2020 10:15:05 UTC] PHP Warning:  file_get_contents(uploads/books/418242-611163-The Complete Idiot's Guide to Music Theory.pdf): failed to open stream: No such file or directory in /home/oyirkzwle3k4/public_html/preview_pdf.php on line 8
+[20-Jul-2020 10:15:06 UTC] PHP Warning:  file_get_contents(uploads/books/418242-611163-The Complete Idiot's Guide to Music Theory.pdf): failed to open stream: No such file or directory in /home/oyirkzwle3k4/public_html/preview_pdf.php on line 8
+[20-Jul-2020 19:21:18 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/oyirkzwle3k4/public_html/dashboard.php on line 66
+[20-Jul-2020 19:21:18 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/oyirkzwle3k4/public_html/dashboard.php on line 70
+[20-Jul-2020 19:21:18 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/oyirkzwle3k4/public_html/dashboard.php on line 73
+[20-Jul-2020 19:21:18 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/oyirkzwle3k4/public_html/dashboard.php on line 76
+[20-Jul-2020 19:21:18 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/oyirkzwle3k4/public_html/dashboard.php on line 79
+[21-Jul-2020 16:04:23 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/oyirkzwle3k4/public_html/my-download.php on line 89
+[21-Jul-2020 16:04:23 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/oyirkzwle3k4/public_html/my-download.php on line 91
+[21-Jul-2020 23:28:59 Asia/Calcutta] PHP Warning:  file_get_contents(uploads/books/356433-597965-Learning to “Think Like a Lawyer”.pdf): failed to open stream: No such file or directory in /home/oyirkzwle3k4/public_html/download.php on line 21
+[21-Jul-2020 23:29:02 Asia/Calcutta] PHP Warning:  file_get_contents(uploads/books/356433-597965-Learning to “Think Like a Lawyer”.pdf): failed to open stream: No such file or directory in /home/oyirkzwle3k4/public_html/download.php on line 21
+[21-Jul-2020 23:29:05 Asia/Calcutta] PHP Warning:  file_get_contents(uploads/books/356433-597965-Learning to “Think Like a Lawyer”.pdf): failed to open stream: No such file or directory in /home/oyirkzwle3k4/public_html/download.php on line 21
+[21-Jul-2020 23:29:07 Asia/Calcutta] PHP Warning:  file_get_contents(uploads/books/356433-597965-Learning to “Think Like a Lawyer”.pdf): failed to open stream: No such file or directory in /home/oyirkzwle3k4/public_html/download.php on line 21
+[21-Jul-2020 23:29:08 Asia/Calcutta] PHP Warning:  file_get_contents(uploads/books/356433-597965-Learning to “Think Like a Lawyer”.pdf): failed to open stream: No such file or directory in /home/oyirkzwle3k4/public_html/download.php on line 21
+[21-Jul-2020 23:29:14 Asia/Calcutta] PHP Warning:  file_get_contents(uploads/books/356433-597965-Learning to “Think Like a Lawyer”.pdf): failed to open stream: No such file or directory in /home/oyirkzwle3k4/public_html/download.php on line 21
+[21-Jul-2020 23:33:20 Asia/Calcutta] PHP Notice:  Undefined variable: filenames in /home/oyirkzwle3k4/public_html/edit_book.php on line 140
+[21-Jul-2020 23:33:36 Asia/Calcutta] PHP Notice:  Undefined variable: filenames in /home/oyirkzwle3k4/public_html/edit_book.php on line 140
+[22-Jul-2020 14:37:34 Asia/Calcutta] PHP Notice:  Undefined variable: filenames in /home/oyirkzwle3k4/public_html/edit_book.php on line 140
+[22-Jul-2020 14:42:45 Asia/Calcutta] PHP Notice:  Undefined variable: filenames in /home/oyirkzwle3k4/public_html/edit_book.php on line 140
+[22-Jul-2020 15:58:26 Asia/Calcutta] PHP Notice:  Undefined variable: filenames in /home/oyirkzwle3k4/public_html/edit_book.php on line 140
+[22-Jul-2020 15:59:03 Asia/Calcutta] PHP Notice:  Undefined variable: filenames in /home/oyirkzwle3k4/public_html/edit_book.php on line 140
+[22-Jul-2020 16:02:37 Asia/Calcutta] PHP Notice:  Undefined variable: filenames in /home/oyirkzwle3k4/public_html/edit_book.php on line 140
+[22-Jul-2020 16:41:38 Asia/Calcutta] PHP Notice:  Undefined variable: filenames in /home/oyirkzwle3k4/public_html/edit_book.php on line 140
+[23-Jul-2020 14:33:08 Asia/Calcutta] PHP Warning:  file_get_contents(uploads/books/418242-611163-The Complete Idiot's Guide to Music Theory.pdf): failed to open stream: No such file or directory in /home/oyirkzwle3k4/public_html/download.php on line 21
+[23-Jul-2020 14:33:11 Asia/Calcutta] PHP Warning:  file_get_contents(uploads/books/418242-611163-The Complete Idiot's Guide to Music Theory.pdf): failed to open stream: No such file or directory in /home/oyirkzwle3k4/public_html/download.php on line 21
+[23-Jul-2020 17:06:10 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/oyirkzwle3k4/public_html/book_like.php on line 3
+[23-Jul-2020 22:29:36 Asia/Calcutta] PHP Notice:  Undefined index: plan in /home/oyirkzwle3k4/public_html/download_book.php on line 69
+[23-Jul-2020 22:29:36 Asia/Calcutta] PHP Notice:  Undefined index: plan in /home/oyirkzwle3k4/public_html/inc/download-detail.php on line 35
+[23-Jul-2020 22:32:02 Asia/Calcutta] PHP Warning:  file_get_contents(uploads/books/418242-611163-The Complete Idiot's Guide to Music Theory.pdf): failed to open stream: No such file or directory in /home/oyirkzwle3k4/public_html/download.php on line 21
+[23-Jul-2020 22:32:12 Asia/Calcutta] PHP Warning:  file_get_contents(uploads/books/418242-611163-The Complete Idiot's Guide to Music Theory.pdf): failed to open stream: No such file or directory in /home/oyirkzwle3k4/public_html/download.php on line 21
+[23-Jul-2020 22:32:16 Asia/Calcutta] PHP Warning:  file_get_contents(uploads/books/418242-611163-The Complete Idiot's Guide to Music Theory.pdf): failed to open stream: No such file or directory in /home/oyirkzwle3k4/public_html/download.php on line 21
+[23-Jul-2020 22:35:13 Asia/Calcutta] PHP Warning:  file_get_contents(uploads/books/86335-418242-611163-The Complete Idiot's Guide to Music Theory.pdf): failed to open stream: No such file or directory in /home/oyirkzwle3k4/public_html/download.php on line 21
+[23-Jul-2020 22:35:24 Asia/Calcutta] PHP Warning:  file_get_contents(uploads/books/86335-418242-611163-The Complete Idiot's Guide to Music Theory.pdf): failed to open stream: No such file or directory in /home/oyirkzwle3k4/public_html/download.php on line 21
+[23-Jul-2020 17:05:34 UTC] PHP Warning:  file_get_contents(uploads/books/86335-418242-611163-The Complete Idiot's Guide to Music Theory.pdf): failed to open stream: No such file or directory in /home/oyirkzwle3k4/public_html/preview_pdf.php on line 8
+[23-Jul-2020 22:38:54 Asia/Calcutta] PHP Warning:  file_get_contents(uploads/books/979236-901986-Teaching Organic Farming ): failed to open stream: No such file or directory in /home/oyirkzwle3k4/public_html/download.php on line 21
+[23-Jul-2020 22:38:57 Asia/Calcutta] PHP Warning:  file_get_contents(uploads/books/979236-901986-Teaching Organic Farming ): failed to open stream: No such file or directory in /home/oyirkzwle3k4/public_html/download.php on line 21
+[23-Jul-2020 22:40:29 Asia/Calcutta] PHP Warning:  file_get_contents(uploads/books/261903-979236-901986-Teaching Organic Farming ): failed to open stream: No such file or directory in /home/oyirkzwle3k4/public_html/download.php on line 21
+[23-Jul-2020 22:40:31 Asia/Calcutta] PHP Warning:  file_get_contents(uploads/books/261903-979236-901986-Teaching Organic Farming ): failed to open stream: No such file or directory in /home/oyirkzwle3k4/public_html/download.php on line 21
+[23-Jul-2020 22:40:33 Asia/Calcutta] PHP Warning:  file_get_contents(uploads/books/261903-979236-901986-Teaching Organic Farming ): failed to open stream: No such file or directory in /home/oyirkzwle3k4/public_html/download.php on line 21
+[23-Jul-2020 22:41:28 Asia/Calcutta] PHP Warning:  file_get_contents(uploads/books/261903-979236-901986-Teaching Organic Farming ): failed to open stream: No such file or directory in /home/oyirkzwle3k4/public_html/download.php on line 21
+[23-Jul-2020 22:41:34 Asia/Calcutta] PHP Warning:  file_get_contents(uploads/books/261903-979236-901986-Teaching Organic Farming ): failed to open stream: No such file or directory in /home/oyirkzwle3k4/public_html/download.php on line 21
+[23-Jul-2020 22:49:06 Asia/Calcutta] PHP Warning:  file_get_contents(uploads/books/979236-901986-Teaching Organic Farming ): failed to open stream: No such file or directory in /home/oyirkzwle3k4/public_html/download.php on line 21
+[23-Jul-2020 22:50:45 Asia/Calcutta] PHP Warning:  file_get_contents(uploads/books/356433-597965-Learning to “Think Like a Lawyer”.pdf): failed to open stream: No such file or directory in /home/oyirkzwle3k4/public_html/download.php on line 21
+[23-Jul-2020 22:50:48 Asia/Calcutta] PHP Warning:  file_get_contents(uploads/books/356433-597965-Learning to “Think Like a Lawyer”.pdf): failed to open stream: No such file or directory in /home/oyirkzwle3k4/public_html/download.php on line 21
+[23-Jul-2020 22:54:38 Asia/Calcutta] PHP Warning:  file_get_contents(uploads/books/86335-418242-611163-The Complete Idiot's Guide to Music Theory.pdf): failed to open stream: No such file or directory in /home/oyirkzwle3k4/public_html/download.php on line 21
+[23-Jul-2020 23:14:14 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/oyirkzwle3k4/public_html/download.php on line 6
+[23-Jul-2020 23:53:26 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/oyirkzwle3k4/public_html/my-book.php on line 121
+[23-Jul-2020 23:53:26 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/oyirkzwle3k4/public_html/my-book.php on line 123
+[24-Jul-2020 00:23:30 Asia/Calcutta] PHP Notice:  Undefined index: plan in /home/oyirkzwle3k4/public_html/download_book.php on line 69
+[24-Jul-2020 00:23:30 Asia/Calcutta] PHP Notice:  Undefined index: plan in /home/oyirkzwle3k4/public_html/inc/download-detail.php on line 35
+[24-Jul-2020 23:42:39 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/oyirkzwle3k4/public_html/download.php on line 6
